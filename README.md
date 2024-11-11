@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Tejas Mali
 
 ### 🤖 Automation and Robotics Student | 🌐 Passionate Web Developer
@@ -22,7 +21,6 @@ Welcome to my GitHub profile! I’m a student focused on **Automation and Roboti
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejazmali) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tejazmali)
 
-
 ---
 
 ### 💻 Tech Stack:
@@ -30,6 +28,12 @@ Welcome to my GitHub profile! I’m a student focused on **Automation and Roboti
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+
+---
+
+### 🖥️ Portfolio:
+
+Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I’ve worked on and get an insight into my web development journey.
 
 ---
 
