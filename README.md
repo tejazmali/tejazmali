@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tejas Mali
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Tejas Mali
 
 ### 🤖 Automation and Robotics Student | 🌐 Passionate Web Developer
 
