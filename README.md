@@ -43,7 +43,7 @@ Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tejazmali&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Tejas Mali profile views](https://u8views.com/api/v1/github/profiles/175258450/views/total-count.svg)](https://u8views.com/github/tejazmali)
 
 
 
