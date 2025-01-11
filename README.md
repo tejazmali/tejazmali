@@ -2,51 +2,64 @@
 
 ### 🤖 Automation and Robotics Student | 🌐 Passionate Web Developer
 
-Welcome to my GitHub profile! I’m a student focused on **Automation and Robotics**, with a strong interest in web development. I love building interactive, user-friendly web applications, and I’m constantly learning and growing in the field.
+Welcome to my GitHub profile! I’m a student focused on **Automation and Robotics**, with a strong interest in web development. I love building interactive, user-friendly web applications, and I’m constantly learning and growing in the field.🚀  
 
 ---
 
-### 📋 About Me:
-
-- 🤖 **I am an Automation and Robotics Student**
-- 👨🏻‍💻 **Passionate Web Developer**  
-- 🌱 **Currently learning**: Enhancing my skills in **HTML5, CSS3, and JavaScript**
-- 💬 **Ask me about**: Web development basics, front-end design, and interactive UI building.
-- ⚡ **Fun fact**: I'm always curious to learn new technologies and improve my coding skills!
-
----
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejazmali) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tejazmali)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/tejazmali) 
-
+## 🌟 **About Me**
+- 🤖 **Field of Study**: Automation and Robotics  
+- 💻 **Passion**: Web Development and Interactive UI Design  
+- 🌱 **Learning**: Advancing in **HTML5, CSS3, JavaScript**  
+- 💬 **Ask Me About**: Front-end design, interactive web building, or the basics of web development  
+- ⚡ **Fun Fact**: Curious by nature, I’m constantly exploring new technologies and finding ways to improve my coding!  
 
 ---
 
-## 💻 Tech Stack:
-
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
----
-
-## 🖥️ Portfolio:
-
-Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I’ve worked on and get an insight into my web development journey.
+## 🌐 **Connect with Me**
+Feel free to reach out or follow me on:  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tejazmali)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tejazmali)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tejazmali)  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejazmali&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 **Tech Stack**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
 
 ---
-![Tejas Mali profile views](https://u8views.com/api/v1/github/profiles/175258450/views/total-count.svg)
 
-
+## 🖥️ **Portfolio**
+Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I’ve worked on and get an insight into my web development journey.  
 
 ---
 
-Thank you for visiting my profile! I'm excited to connect with fellow developers and technology enthusiasts.
+## 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejazmali&theme=github_dark_dimmed&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejazmali&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+## 🐍 **GitHub Contribution Snake**  
+![snake gif](https://github.com/tejazmali/tejazmali/blob/output/github-snake-dark.svg)  
+
+---
+
+![Profile Views](https://u8views.com/api/v1/github/profiles/175258450/views/total-count.svg)  
+
+Thank you for visiting my profile! 🌟 Let’s connect and build something amazing together!
