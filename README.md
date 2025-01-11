@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a student focused on **Automation and Roboti
 ---
 
 ## 🌐 **Connect with Me**
-Feel free to reach out or follow me on:  
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tejazmali)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tejazmali)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tejazmali)  
