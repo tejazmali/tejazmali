@@ -1,11 +1,10 @@
-<!-- Buy Me a Coffee Button (Top) -->
-<p align="right">
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
+  Hi, I'm Tejas Mali
   <a href="https://www.buymeacoffee.com/tejazmali" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" style="vertical-align: middle; margin-left: 10px;" />
   </a>
-</p>
-
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Tejas Mali
+</h1>
 
 ### 🤖 Automation and Robotics Student | 🌐 Passionate Web Developer
 
