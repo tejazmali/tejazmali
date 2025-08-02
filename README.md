@@ -1,3 +1,10 @@
+<!-- Buy Me a Coffee Button (Top) -->
+<p align="right">
+  <a href="https://www.buymeacoffee.com/tejazmali" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px;" >
+  </a>
+</p>
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Tejas Mali
 
 ### 🤖 Automation and Robotics Student | 🌐 Passionate Web Developer
@@ -29,6 +36,7 @@ Welcome to my GitHub profile! I’m a student focused on **Automation and Roboti
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -63,4 +71,16 @@ Check out my **[Portfolio](https://tejasmali.vercel.app)** to see the projects I
 
 ![Profile Views](https://u8views.com/api/v1/github/profiles/175258450/views/total-count.svg)  
 
-Thank you for visiting my profile! 🌟 Let’s connect and build something amazing together!
+---
+
+## ☕ Support Me
+
+If you enjoy my work or find my projects helpful, consider supporting me:
+
+<a href="https://www.buymeacoffee.com/tejazmali" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;">
+</a>
+
+> ☕ Every little bit helps me keep building cool projects and open-source tools. Thanks for your support! 🙌
+
+---
